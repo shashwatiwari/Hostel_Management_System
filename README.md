@@ -2,20 +2,6 @@
 
 A web application for managing hostel activities using React and MySQL.
 
-## Screenshots
-
-![Screenshot 1](Screenshot (118).png)
-![Screenshot 2](Screenshot (119).png)
-![Screenshot 3](Screenshot (120).png)
-![Screenshot 4](Screenshot (121).png)
-![Screenshot 5](Screenshot (122).png)
-![Screenshot 6](Screenshot (123).png)
-![Screenshot 7](Screenshot (128).png)
-![Screenshot 8](Screenshot (129).png)
-![Screenshot 9](Screenshot (132).png)
-![Screenshot 10](Screenshot (133).png)
-![Screenshot 11](Screenshot (134).png)
-
 
 ## Installation
 
